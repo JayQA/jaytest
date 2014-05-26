@@ -1,0 +1,3 @@
+blankfile.txt
+
+This is the file that will create your screenshots dir. All screenshots will be saved here and ignored by git.
